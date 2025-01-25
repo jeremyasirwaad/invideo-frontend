@@ -1,0 +1,3 @@
+[submodule "wasm/calculator"]
+	path = wasm/calculator
+	url = git@github.com:jeremyasirwaad/Invideo-wasm.git
